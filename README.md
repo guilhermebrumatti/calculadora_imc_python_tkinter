@@ -1,4 +1,4 @@
-# calculadora_imc_python_tkinter
+# Calculadora IMC Python Tkinter
 
 App criado através de estudos do TKinter.
 
