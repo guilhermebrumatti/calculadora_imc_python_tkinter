@@ -4,4 +4,4 @@ App criado através de estudos do TKinter.
 
 Trata-se de uma calculadora de IMC:
 
-<img src="https://raw.githubusercontent.com/guilhermebrumatti/guilhermebrumatti/main/print_imc.png?token=GHSAT0AAAAAAB3PCTTH6QRVZULP5RZ6ETE2Y5YQO7Q" />
+<img src="https://github.com/guilhermebrumatti/guilhermebrumatti/blob/main/print_imc.png?raw=true" />
